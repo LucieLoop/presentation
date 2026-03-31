@@ -134,3 +134,5 @@ dd {
   margin-right: 10px;
   vertical-align: middle;
 }
+
+@media(max-width:600px) {h1{font-size:36px;}}
